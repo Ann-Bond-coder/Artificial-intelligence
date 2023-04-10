@@ -1,1 +1,1 @@
-### Візуалізація даних засобами бібліотеки Seaborn
+### Data visualization using the Seaborn library
